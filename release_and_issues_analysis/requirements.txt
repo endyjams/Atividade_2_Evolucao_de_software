@@ -1,5 +1,4 @@
-requests
-matplotlib
 pandas
-scikit-learn
-nltk
+matplotlib
+networkx
+requests
